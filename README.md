@@ -1,2 +1,0 @@
-# CarruselFrontend
-CursoDeFrontendDeveloper
